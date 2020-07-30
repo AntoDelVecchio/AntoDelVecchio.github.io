@@ -1,0 +1,96 @@
+{
+	"SA57S2w1": {
+		"name": "menu-hamburguesa",
+		"src": "C:\\Users\\vaio\\Desktop\\WebDev\\Bloque_1\\Encuentro_10\\menu-hamburguesa",
+		"config": {},
+		"files": {
+			"C:\\Users\\vaio\\Desktop\\WebDev\\Bloque_1\\Encuentro_10\\menu-hamburguesa\\style.css": {
+				"id": "12IhuHd4",
+				"pid": "SA57S2w1",
+				"compiler": "cssmin",
+				"name": "style.css",
+				"src": "C:\\Users\\vaio\\Desktop\\WebDev\\Bloque_1\\Encuentro_10\\menu-hamburguesa\\style.css",
+				"output": "C:\\Users\\vaio\\Desktop\\WebDev\\Bloque_1\\Encuentro_10\\menu-hamburguesa\\style.min.css",
+				"compile": false,
+				"watch": true,
+				"category": "css",
+				"settings": {
+					"combineImport": true,
+					"appendTimestamp": false,
+					"autoprefix": false,
+					"autoprefixConfig": "",
+					"outputStyle": "yuicompress"
+				}
+			},
+			"C:\\Users\\vaio\\Desktop\\WebDev\\Bloque_1\\Encuentro_10\\menu-hamburguesa\\styles.scss": {
+				"id": "biKMzTF5",
+				"pid": "SA57S2w1",
+				"compiler": "sass",
+				"name": "styles.scss",
+				"src": "C:\\Users\\vaio\\Desktop\\WebDev\\Bloque_1\\Encuentro_10\\menu-hamburguesa\\styles.scss",
+				"output": "C:\\Users\\vaio\\Desktop\\WebDev\\Bloque_1\\Encuentro_10\\menu-hamburguesa\\styles.css",
+				"compile": true,
+				"watch": true,
+				"category": "style",
+				"settings": {
+					"compass": false,
+					"sourceMap": true,
+					"lineComments": false,
+					"debugInfo": false,
+					"unixNewlines": false,
+					"autoprefix": false,
+					"autoprefixConfig": "",
+					"outputStyle": "nested"
+				}
+			}
+		},
+		"id": "SA57S2w1"
+	},
+	"1CTFc7PQ": {
+		"name": "diario",
+		"src": "C:\\Users\\vaio\\Desktop\\WebDev\\Bloque_1\\Encuentro_11\\diario",
+		"config": {},
+		"files": {
+			"C:\\Users\\vaio\\Desktop\\WebDev\\Bloque_1\\Encuentro_11\\diario\\style.css": {
+				"id": "lUoC6gG0",
+				"pid": "1CTFc7PQ",
+				"compiler": "cssmin",
+				"name": "style.css",
+				"src": "C:\\Users\\vaio\\Desktop\\WebDev\\Bloque_1\\Encuentro_11\\diario\\style.css",
+				"output": "C:\\Users\\vaio\\Desktop\\WebDev\\Bloque_1\\Encuentro_11\\diario\\style.min.css",
+				"compile": false,
+				"watch": true,
+				"category": "css",
+				"settings": {
+					"combineImport": true,
+					"appendTimestamp": false,
+					"autoprefix": false,
+					"autoprefixConfig": "",
+					"outputStyle": "yuicompress"
+				}
+			},
+			"C:\\Users\\vaio\\Desktop\\WebDev\\Bloque_1\\Encuentro_11\\diario\\styles.scss": {
+				"id": "qPRzTWJf",
+				"pid": "1CTFc7PQ",
+				"compiler": "sass",
+				"name": "styles.scss",
+				"src": "C:\\Users\\vaio\\Desktop\\WebDev\\Bloque_1\\Encuentro_11\\diario\\styles.scss",
+				"output": "C:\\Users\\vaio\\Desktop\\WebDev\\Bloque_1\\Encuentro_11\\diario\\styles.css",
+				"compile": true,
+				"watch": true,
+				"category": "style",
+				"settings": {
+					"compass": false,
+					"sourceMap": true,
+					"lineComments": false,
+					"debugInfo": false,
+					"unixNewlines": false,
+					"autoprefix": false,
+					"autoprefixConfig": "",
+					"outputStyle": "nested"
+				}
+			}
+		},
+		"id": "1CTFc7PQ"
+	}
+}

@@ -404,6 +404,12 @@ body main .image {
   }
 }
 
+@media (min-width: 1120px) and (max-width: 1500px) {
+  body main .image {
+    width: 50%;
+  }
+}
+
 @media screen and (min-width: 1500px) {
   body main .image {
     width: 50%;

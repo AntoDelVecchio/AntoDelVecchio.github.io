@@ -212,7 +212,7 @@ body{
             @include respond-to(tablet-screen) {
                 width: 60%;
             }
-            @include respond-to(desktop-screen) {
+            @include respond-to(laptop-screen, desktop-screen) {
                 width: 50%;
             }
             img{
